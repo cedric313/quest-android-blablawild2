@@ -22,6 +22,10 @@ public class ItineraryModel {
         this.price = price;
     }
 
+    public ItineraryModel() {
+    }
+
+
     public String getDeparture() {
         return departure;
     }
@@ -42,3 +46,5 @@ public class ItineraryModel {
         return price;
     }
 }
+
+

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "641843708681",
+    "firebase_url": "https://quest-android-blablawild-db6a9.firebaseio.com",
+    "project_id": "quest-android-blablawild-db6a9",
+    "storage_bucket": "quest-android-blablawild-db6a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641843708681:android:982eaadd93ce5971",
+        "android_client_info": {
+          "package_name": "fr.wildcodeschool.blablawild2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641843708681-0bbldtnch5pr6lvt7t6gp66367cnlcve.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fr.wildcodeschool.blablawild2",
+            "certificate_hash": "3d75834d71b7722bd0efeb2606561b40bbfeb46c"
+          }
+        },
+        {
+          "client_id": "641843708681-p3g7r45q8glf9omdhuiblcnqd3438sin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoj-tegRq2E9DJNclitKvoNjCt4Qvhm3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641843708681-p3g7r45q8glf9omdhuiblcnqd3438sin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
