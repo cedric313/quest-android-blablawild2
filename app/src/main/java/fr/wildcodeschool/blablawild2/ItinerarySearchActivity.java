@@ -55,8 +55,7 @@ public class ItinerarySearchActivity extends AppCompatActivity {
                     tripModelRef.child(key).addListenerForSingleValueEvent(new ValueEventListener() {
                         @Override
                         public void onDataChange(DataSnapshot dataSnapshot) {
-                            Intent intent = new Intent(ItinerarySearchActivity.this, MainActivity.class);
-                            startActivity(intent);
+
                         }
 
                         @Override

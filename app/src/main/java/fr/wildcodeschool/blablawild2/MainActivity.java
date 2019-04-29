@@ -23,6 +23,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+
+
 // accès à la base de données Firebase
         FirebaseDatabase database = FirebaseDatabase.getInstance();
 // sélection de la référence "message"
